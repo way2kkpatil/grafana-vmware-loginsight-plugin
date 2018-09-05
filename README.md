@@ -1,0 +1,1 @@
+# grafana-vmware-loginsight-plugin
